@@ -12,3 +12,11 @@
 ![HC-05 / HC-06 Bluetooth and Arduino](slides/Slide5.jpg)
 ![HC-05 module setup for BT communication](slides/Slide6.jpg)
 ![Configure HC-05 using module AT commands](slides/Slide7.jpg)
+
+
+
+**Reference**
+
+https://www.instructables.com/id/How-to-Configure-HC-05-Bluetooth-Module-As-Master-/
+
+https://arduinoinfo.mywikis.net/wiki/BlueTooth-HC05-HC06-Modules-How-To
